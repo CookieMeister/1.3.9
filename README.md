@@ -7,5 +7,8 @@ I have included some sample code that comes from 1.3.7 that you may 'fork' to cr
 
 ### Documentation ###
 
-[image.paste\(\)](http://effbot.org/imagingbook/image.htm)
+[image.paste\(\)](http://effbot.org/imagingbook/image.htm);
 [os.path](http://docs.python.org/2/library/os.path.html)
+
+
+    
